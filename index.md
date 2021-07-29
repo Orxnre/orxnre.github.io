@@ -4,6 +4,8 @@ NindCraft是一位编程初学者的屑作，如果大家有感想，非常欢�
 
 ### 游戏下载 | DOWNLOAD
 
+<iframe frameborder="0" src="https://itch.io/embed/1136842?bg_color=353535&amp;fg_color=dbdbdb&amp;link_color=4b4b4b&amp;border_color=333333" width="552" height="167"><a href="https://xnye.itch.io/nc">NindCraft by Xnye</a></iframe>
+
 [NindCraft 0.4β](files/NiNdCraft 0.4b.exe)
 
 [NindCraft 0.3β](files/NiNdCraft 0.3b.exe)
