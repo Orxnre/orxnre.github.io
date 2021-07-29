@@ -6,6 +6,8 @@ NindCraft是一位编程初学者的屑作，如果大家有感想，非常欢�
 
 **[NindCraft 0.5β](files/NindCraft 0.5b.exe)**
 
+**[在itch平台上下载最新版本](https://xnye.itch.io/nc)**
+
 [NindCraft 0.4β](files/NiNdCraft 0.4b.exe)
 
 [NindCraft 0.3β](files/NiNdCraft 0.3b.exe)
@@ -13,8 +15,6 @@ NindCraft是一位编程初学者的屑作，如果大家有感想，非常欢�
 [NindCraft 0.2β](files/NiNdCraft 0.2b.exe)
 
 [NindCraft 0.1β](files/NiNdCraft 0.1b.exe)
-
-**[在itch平台上下载最新版本](https://xnye.itch.io/nc)**
 
 ### 疑难杂症 | Q&A
 
