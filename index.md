@@ -4,19 +4,17 @@ NindCraft是一位编程初学者的屑作，如果大家有感想，非常欢�
 
 ### 游戏下载 | DOWNLOAD
 
-目前版本仅支持在Windows平台上运行，只提供.exe文件，下载即开，无需安装
-
-**[NindCraft 0.5β](files/NindCraft 0.5b.exe)**
+**[NindCraft 0.5b.exe](files/NindCraft 0.5b.exe)**
 
 **[在itch上获取最新版本](https://xnye.itch.io/nc)**
 
-[NindCraft 0.4β](files/NiNdCraft 0.4b.exe)
+[NiNdCraft 0.4b.exe](files/NiNdCraft 0.4b.exe)
 
-[NindCraft 0.3β](files/NiNdCraft 0.3b.exe)
+[NiNdCraft 0.3b.exe](files/NiNdCraft 0.3b.exe)
 
-[NindCraft 0.2β](files/NiNdCraft 0.2b.exe)
+[NiNdCraft 0.2b.exe](files/NiNdCraft 0.2b.exe)
 
-[NindCraft 0.1β](files/NiNdCraft 0.1b.exe)
+[NiNdCraft 0.1b.exe](files/NiNdCraft 0.1b.exe)
 
 ### 疑难杂症 | Q&A
 
