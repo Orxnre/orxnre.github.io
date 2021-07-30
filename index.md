@@ -9,15 +9,15 @@ NindCraft是一位编程初学者的屑作，如果大家有感想，非常欢�
 [NindCraft 0.5b.exe](files/NindCraft 0.5b.exe)
 
 <details>
-  <summary>早些的版本</summary>
-  
-  [NiNdCraft 0.4b.exe](files/NiNdCraft 0.4b.exe)
-  
-  [NiNdCraft 0.3b.exe](files/NiNdCraft 0.3b.exe)
-  
-  [NiNdCraft 0.2b.exe](files/NiNdCraft 0.2b.exe)
-  
-  [NiNdCraft 0.1b.exe](files/NiNdCraft 0.1b.exe)
+<summary>早些的版本</summary>
+
+<a href="files/NiNdCraft 0.4b.exe">NiNdCraft 0.4b.exe</a>
+
+<a href="files/NiNdCraft 0.3b.exe">NiNdCraft 0.3b.exe</a>
+
+<a href="files/NiNdCraft 0.2b.exe">NiNdCraft 0.2b.exe</a>
+
+<a href="files/NiNdCraft 0.1b.exe">NiNdCraft 0.1b.exe</a>
   
 </details>
 
