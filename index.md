@@ -13,22 +13,24 @@ NindCraft是一个编程初学者的屑作，没什么技术含量，暂时不�
 
 ### 游戏下载 | DOWNLOAD
 
-<p><a href="files/NindCraft 0.6b.exe">NindCraft 0.6b.exe</a></p>
 
-<p><a href="files/NindCraft 0.5.1b.exe">NindCraft 0.5.1b.exe</a></p>
+
+<p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6-beta/NindCraft.0.6b.exe">NindCraft.0.6b.exe</a></p>
 
 <details>
 <summary>早些的版本</summary>
   
-  <p><a href="files/NindCraft 0.5b.exe">NindCraft 0.5b.exe</a></p>
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.5.1-beta/NindCraft.0.5.1b.exe">NindCraft.0.5.1b.exe</a></p>
   
-  <p><a href="files/NiNdCraft 0.4b.exe">NiNdCraft 0.4b.exe</a></p>
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.5-beta/NindCraft.0.5b.exe">NindCraft.0.5b.exe</a></p>
   
-  <p><a href="files/NiNdCraft 0.3b.exe">NiNdCraft 0.3b.exe</a></p>
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.4-beta/NiNdCraft.0.4b.exe">NiNdCraft.0.4b.exe</a></p>
   
-  <p><a href="files/NiNdCraft 0.2b.exe">NiNdCraft 0.2b.exe</a></p>
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.3-beta/NiNdCraft.0.3b.exe">NiNdCraft.0.3b.exe</a></p>
   
-  <p><a href="files/NiNdCraft 0.1b.exe">NiNdCraft 0.1b.exe</a></p>
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.2-beta/NiNdCraft.0.2b.exe">NiNdCraft.0.2b.exe</a></p>
+  
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.1-beta/NiNdCraft.0.1b.exe">NiNdCraft.0.1b.exe</a></p>
   
 </details>
 
