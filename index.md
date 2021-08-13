@@ -13,7 +13,7 @@ NindCraft是一个编程初学者的屑作，没什么技术含量，暂时不�
 
 ### 游戏下载 | DOWNLOAD
 
-
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/NindCraft/NindCraft.github.io/total?color=6cb&label=Downloads&style=flat-square">
 
 <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6-beta/NindCraft.0.6b.exe">NindCraft.0.6b.exe</a></p>
 
