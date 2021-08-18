@@ -15,22 +15,22 @@ NindCraft是一个编程初学者的屑作，没什么技术含量，暂时不�
 
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/NindCraft/NindCraft.github.io/total?color=6cb&label=Downloads&style=flat-square">
 
-<p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6-beta/NindCraft.0.6b.exe">NindCraft.0.6b.exe</a></p>
+<p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6-beta/NindCraft_0.6b.exe">NindCraft_0.6b.exe</a></p>
 
 <details>
 <summary>早些的版本</summary>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.5.1-beta/NindCraft.0.5.1b.exe">NindCraft.0.5.1b.exe</a></p>
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.5.1-beta/NindCraft_0.5.1b.exe">NindCraft_0.5.1b.exe</a></p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.5-beta/NindCraft.0.5b.exe">NindCraft.0.5b.exe</a></p>
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.5-beta/NindCraft_0.5b.exe">NindCraft_0.5b.exe</a></p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.4-beta/NiNdCraft.0.4b.exe">NiNdCraft.0.4b.exe</a></p>
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.4-beta/NiNdCraft_0.4b.exe">NiNdCraft_0.4b.exe</a></p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.3-beta/NiNdCraft.0.3b.exe">NiNdCraft.0.3b.exe</a></p>
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.3-beta/NiNdCraft_0.3b.exe">NiNdCraft_0.3b.exe</a></p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.2-beta/NiNdCraft.0.2b.exe">NiNdCraft.0.2b.exe</a></p>
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.2-beta/NiNdCraft_0.2b.exe">NiNdCraft_0.2b.exe</a></p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.1-beta/NiNdCraft.0.1b.exe">NiNdCraft.0.1b.exe</a></p>
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.1-beta/NiNdCraft_0.1b.exe">NiNdCraft_0.1b.exe</a></p>
   
 </details>
 
