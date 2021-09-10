@@ -1,12 +1,3 @@
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KX2YP3YLV7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-KX2YP3YLV7');
-</script>
-
 使用W、A、S、D按键控制角色「您」移动，E探索当前位置的宝藏，Q打开商店，N退出游戏，角色可在「草」「土」上移动。宝藏价值为50$至150$不等。收集足够的金钱「$」后可在商店中购买通往下一层的入场券，目前版本中游戏共有三层，通过第三层后游戏结束。要获取更详细数值，请访问[更新日志页面](https://nindcraft.github.io/u)。
 
 NindCraft是一个编程初学者的屑作，没什么技术含量，暂时不开源。如果大家有意见，非常欢迎批评、指出。眼下，该游戏处于技术测试阶段。感谢所有找到此页面并下载体验的朋友！！
