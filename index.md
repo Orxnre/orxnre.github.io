@@ -2,7 +2,7 @@
 
 NindCraft是一个编程初学者的屑作，没什么技术含量，暂时不开源。如果大家有意见，非常欢迎批评、指出。眼下，该游戏处于技术测试阶段。感谢所有找到此页面并下载体验的朋友！！
 
-### 游戏下载 | DOWNLOAD
+### 游戏下载 | Downloads
 
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/NindCraft/NindCraft.github.io/total?color=6cb&label=Downloads&style=flat-square">
 
