@@ -26,11 +26,14 @@ NindCraft是一个编程初学者的屑作，没什么技术含量，暂时不�
   <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.1-beta/NiNdCraft_0.1b.exe">NiNdCraft_0.1b.exe</a></p>
   
 </details>
+
 ### 运行环境 | Environment
 
 「操作系统」至少Microsoft Windows 7
 
 「运行内存」至少15MB
+
+「网络连接」无需联网
 
 ### 疑难杂症 | Q&A
 
