@@ -6,12 +6,12 @@ NindCraft是一个编程初学者的屑作，没什么技术含量，暂时不�
 
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/NindCraft/NindCraft.github.io/total?color=6cb&label=Downloads&style=flat-square">
 
-<p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.1/NindCraft_0.6.1.exe">NindCraft_0.6.1.exe</a></p>
-
-<p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6-beta/NindCraft_0.6b.exe">NindCraft_0.6b.exe</a></p>
-
 <details>
-<summary>早些的版本</summary>
+<summary>Github</summary>
+  
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.1/NindCraft_0.6.1.exe">NindCraft_0.6.1.exe</a></p>
+
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6-beta/NindCraft_0.6b.exe">NindCraft_0.6b.exe</a></p>
   
   <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.5.1-beta/NindCraft_0.5.1b.exe">NindCraft_0.5.1b.exe</a></p>
   
