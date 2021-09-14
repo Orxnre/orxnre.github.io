@@ -1,4 +1,4 @@
-使用W、A、S、D按键控制角色「您」移动，E探索当前位置的宝藏，Q打开商店，N退出游戏，角色可在「草」「土」上移动。宝藏价值为50$至150$不等。收集足够的金钱「$」后可在商店中购买通往下一层的入场券，目前版本中游戏共有三层，通过第三层后游戏结束。要获取更详细数值，请访问[更新日志页面](https://nindcraft.github.io/u)。
+使用「W」、「A」、「S」、「D」键控制角色「您」移动，「E」键探索当前位置的宝藏，「Q」键打开商店，「Esc」键退出游戏，角色可在「草」「土」上移动。宝藏价值为150$至300$不等。收集足够的金钱「$」后可在商店中购买通往下一层的入场券，目前版本中游戏共有三层，通过第三层后游戏结束。要获取更详细数值，请访问[更新日志页面](https://nindcraft.github.io/u)。
 
 NindCraft是一个编程初学者的屑作，没什么技术含量，暂时不开源。如果大家有意见，非常欢迎批评、指出。眼下，该游戏处于技术测试阶段。感谢所有找到此页面并下载体验的朋友！！
 
@@ -7,7 +7,9 @@ NindCraft是一个编程初学者的屑作，没什么技术含量，暂时不�
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/NindCraft/NindCraft.github.io/total?color=6cb&label=Downloads&style=flat-square">
 
 <details>
-<summary>Github</summary>
+<summary>「GitHub」所有版本</summary>
+  
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.2/NindCraft_0.6.2b.exe">NindCraft_0.6.2.exe</a></p>
   
   <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.1/NindCraft_0.6.1.exe">NindCraft_0.6.1.exe</a></p>
 
@@ -29,7 +31,7 @@ NindCraft是一个编程初学者的屑作，没什么技术含量，暂时不�
 
 ### 运行环境 | Environment
 
-「操作系统」至少Microsoft Windows 7
+「操作系统」建议Windows 7及以上
 
 「运行内存」至少15MB
 
