@@ -1,3 +1,5 @@
+[← 返回](https://nindcraft.github.io)
+
 ### 更新日志 | Changelog
 
 **0.6.3** 2021.09.19
