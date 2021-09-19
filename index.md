@@ -9,7 +9,7 @@ NindCraft是一个编程初学者的屑作，没什么技术含量，暂时不�
 <details>
 <summary>「GitHub」所有版本</summary>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.2/NindCraft_0.6.2b.exe">NindCraft_0.6.2.exe</a></p>
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.2/NindCraft_0.6.2.exe">NindCraft_0.6.2.exe</a></p>
   
   <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.1/NindCraft_0.6.1.exe">NindCraft_0.6.1.exe</a></p>
 
