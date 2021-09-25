@@ -9,25 +9,25 @@ NindCraft是一个编程初学者的屑作，没什么技术含量，暂时不�
 <details>
 <summary>「GitHub」所有版本</summary>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.3/NindCraft_0.6.3.exe">NindCraft_0.6.3.exe</a></p> / 441f5e80bc15dc59c629a2cae1348b45
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.3/NindCraft_0.6.3.exe">NindCraft_0.6.3.exe</a> / 441f5e80bc15dc59c629a2cae1348b45</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.2/NindCraft_0.6.2.exe">NindCraft_0.6.2.exe</a></p> / 5c8b4b6f37e40aaa2f36e9bfa4c78a3f
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.2/NindCraft_0.6.2.exe">NindCraft_0.6.2.exe</a> / 5c8b4b6f37e40aaa2f36e9bfa4c78a3f</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.1/NindCraft_0.6.1.exe">NindCraft_0.6.1.exe</a></p> / a6612659214e0ca147eade0685face9e
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.1/NindCraft_0.6.1.exe">NindCraft_0.6.1.exe</a> / a6612659214e0ca147eade0685face9e</p>
 
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6-beta/NindCraft_0.6b.exe">NindCraft_0.6b.exe</a></p> / 4014259c6259cb6e809dc1f37ef7bf87
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6-beta/NindCraft_0.6b.exe">NindCraft_0.6b.exe</a> / 4014259c6259cb6e809dc1f37ef7bf87</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.5.1-beta/NindCraft_0.5.1b.exe">NindCraft_0.5.1b.exe</a></p> / d817bdab67cd3cd7daf68ada2d8ba7d2
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.5.1-beta/NindCraft_0.5.1b.exe">NindCraft_0.5.1b.exe</a> / d817bdab67cd3cd7daf68ada2d8ba7d2</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.5-beta/NindCraft_0.5b.exe">NindCraft_0.5b.exe</a></p> / 47cf51b7e970c36bbf7d118d1dc0ca0f
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.5-beta/NindCraft_0.5b.exe">NindCraft_0.5b.exe</a> / 47cf51b7e970c36bbf7d118d1dc0ca0f</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.4-beta/NiNdCraft_0.4b.exe">NiNdCraft_0.4b.exe</a></p> / d0d9ebb490baab0f1086fe6faf2027a7
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.4-beta/NiNdCraft_0.4b.exe">NiNdCraft_0.4b.exe</a> / d0d9ebb490baab0f1086fe6faf2027a7</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.3-beta/NiNdCraft_0.3b.exe">NiNdCraft_0.3b.exe</a></p> / 65d66d6981c4773daad287594b96de91
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.3-beta/NiNdCraft_0.3b.exe">NiNdCraft_0.3b.exe</a> / 65d66d6981c4773daad287594b96de91</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.2-beta/NiNdCraft_0.2b.exe">NiNdCraft_0.2b.exe</a></p> / 93465078190404739751f1f812c3f543
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.2-beta/NiNdCraft_0.2b.exe">NiNdCraft_0.2b.exe</a> / 93465078190404739751f1f812c3f543</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.1-beta/NiNdCraft_0.1b.exe">NiNdCraft_0.1b.exe</a></p> / 5f6e7e5f5f9eb8d193893480be27ca31
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.1-beta/NiNdCraft_0.1b.exe">NiNdCraft_0.1b.exe</a> / 5f6e7e5f5f9eb8d193893480be27ca31</p>
   
 </details>
 
