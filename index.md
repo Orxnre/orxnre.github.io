@@ -1,15 +1,17 @@
 使用「W」「A」「S」「D」键控制角色「您」移动，「E」键探索当前位置的宝藏，「Q」键打开商店，「Esc」键退出游戏，角色可在「草」「土」上移动。宝藏价值为150$至300$不等。收集足够的金钱「$」后可在商店中购买通往下一层的入场券，目前版本中游戏共有三层，通过第三层后游戏结束。要获取更详细数值，请访问[更新日志页面](https://nindcraft.github.io/c)。
 
-NindCraft是一个编程初学者的屑作，没什么技术含量，暂时不开源。如果大家有意见，非常欢迎批评、指出。眼下，该游戏处于技术测试阶段。感谢所有找到此页面并下载体验的朋友！！
+程序下载或运行后，Windows Defender可能会误报毒。本程序无恶意，部分版本下载链接后附带了检测报告。
+
+NindCraft是一个编程初学者的屑作，技术力低，不太想开源。如果大家有意见，非常欢迎批评、指出。眼下，该游戏处于技术测试阶段。感谢所有找到此页面并下载体验的朋友！！
 
 ### 游戏下载 | Downloads
 
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/NindCraft/NindCraft.github.io/total?color=6cb&label=Downloads&style=flat-square">
 
 <details>
-<summary>所有版本下载 / MD5</summary>
+<summary>所有版本下载 / MD5 / 检测报告</summary>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.3/NindCraft_0.6.3.exe">NindCraft_0.6.3.exe</a> / 441f5e80bc15dc59c629a2cae1348b45</p>
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.3/NindCraft_0.6.3.exe">NindCraft_0.6.3.exe</a> / 441f5e80bc15dc59c629a2cae1348b45 / <a href="https://s.threatbook.cn/report/file/654ab92758b0daf0d851ff865843d07c86700556f1288805c53a80316275ca18/?env=win7_sp1_enx64_office2013">微步云沙箱</a></p>
   
   <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.2/NindCraft_0.6.2.exe">NindCraft_0.6.2.exe</a> / 5c8b4b6f37e40aaa2f36e9bfa4c78a3f</p>
   
@@ -36,8 +38,6 @@ NindCraft是一个编程初学者的屑作，没什么技术含量，暂时不�
 「操作系统」建议Windows 7及以上
 
 「运行内存」至少15MB
-
-「网络连接」无需联网
 
 ### 疑难杂症 | Q&A
 
