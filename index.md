@@ -11,7 +11,7 @@ NindCraft是一个编程初学者的屑作，技术力低，不太想开源。�
 <details>
 <summary>所有版本下载 / MD5 / 检测报告</summary>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.3/NindCraft_0.6.3.exe">NindCraft_0.6.3.exe</a> / 441f5e80bc15dc59c629a2cae1348b45 / <a href="https://s.threatbook.cn/report/file/654ab92758b0daf0d851ff865843d07c86700556f1288805c53a80316275ca18/?env=win7_sp1_enx64_office2013">微步云沙箱</a></p>
+  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.3/NindCraft_0.6.3.exe">NindCraft_0.6.3.exe</a> / 441f5e80bc15dc59c629a2cae1348b45 / <a href="https://s.threatbook.cn/report/file/654ab92758b0daf0d851ff865843d07c86700556f1288805c53a80316275ca18/?sign=history&env=win7_sp1_enx64_office2013">微步云沙箱</a></p>
   
   <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.2/NindCraft_0.6.2.exe">NindCraft_0.6.2.exe</a> / 5c8b4b6f37e40aaa2f36e9bfa4c78a3f</p>
   
