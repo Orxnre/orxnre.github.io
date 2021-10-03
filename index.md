@@ -35,7 +35,7 @@ NindCraft是一个编程初学者的屑作，技术力低，不太想开源。�
 
 ### 运行环境 | Environment
 
-「操作系统」建议Windows 7及以上
+「操作系统」建议Windows Vista及以上
 
 「运行内存」至少15MB
 
