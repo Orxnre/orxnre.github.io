@@ -1,4 +1,4 @@
-[&nbsp;← 返回&nbsp;](https://nindcraft.github.io)
+**[「 主页 · Homepage 」](https://nindcraft.github.io/) [「 更新 · Changelog 」](https://nindcraft.github.io/c) [「 新闻 · News 」](https://nindcraft.github.io/n)**
 
 ### 更新日志 | Changelog
 
