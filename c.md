@@ -1,4 +1,4 @@
-**[「 主页 · Homepage 」](https://nindcraft.github.io/) [「 更新 · Changelog 」](https://nindcraft.github.io/c) [「 新闻 · News 」](https://nindcraft.github.io/n)**
+**[「 主页 · Homepage 」](https://orxnre.github.io/) [「 更新 · Changelog 」](https://orxnre.github.io/c) [「 新闻 · News 」](https://orxnre.github.io/n)**
 
 ### 更新日志 | Changelog
 **0.8.0** 生命值测试 2022.08.22
