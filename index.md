@@ -1,4 +1,6 @@
-**[「 主页 · Homepage 」](https://nindcraft.github.io/) [「 更新 · Changelog 」](https://nindcraft.github.io/c) [「 新闻 · News 」](https://nindcraft.github.io/n)**
+**[「 主页 · Homepage 」](https://orxnre.github.io/) [「 更新 · Changelog 」](https://orxnre.github.io/c) [「 新闻 · News 」](https://orxnre.github.io/n)**
+
+<img src="https://badges.toozhao.com/badges/01GS58QJQJFWKEXSF496KM0VQN/green.svg" />
 
 Orxnre现已由Nindcraft更改名称。正在尝试使用C#翻新程序，代替Python。
 
@@ -8,36 +10,36 @@ Orxnre是一个编程初学者的屑作，技术力低，不太想开源。如�
 
 ### 游戏下载 | Downloads
 
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/NindCraft/NindCraft.github.io/total?color=6cb&label=Downloads&style=flat-square">
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/orxnre/orxnre.github.io/total?label=%5B%20%E2%86%93%20%5D&style=flat-square"> <img alt="GitHub release (latest SemVer including pre-releases)" src="https://img.shields.io/github/v/release/orxnre/orxnre.github.io?include_prereleases&label=%5BRelease%5D&style=flat-square"> <img alt="GitHub (Pre-)Release Date" src="https://img.shields.io/github/release-date-pre/orxnre/orxnre.github.io?label=%5BLast%20Update%5D&style=flat-square">
 
 <details>
 <summary>所有版本下载 / MD5</summary>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.8.0/NindCraft_0.8.0.exe">NindCraft_0.8.0.exe</a> / 3a3c86022e7cfdeb22a0f6469fba1448</p>
+  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.8.0/NindCraft_0.8.0.exe">NindCraft_0.8.0.exe</a> / 3a3c86022e7cfdeb22a0f6469fba1448</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.7.0-fix/NindCraft_0.7.0-fix.exe">NindCraft_0.7.0-fix.exe</a> / edb4d744d548f6159eacdcd6d544a4e0</p>
+  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.7.0-fix/NindCraft_0.7.0-fix.exe">NindCraft_0.7.0-fix.exe</a> / edb4d744d548f6159eacdcd6d544a4e0</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.7.0/NindCraft_0.7.0.exe">NindCraft_0.7.0.exe</a> / 032f25c6589c0a5334a42f8631691ed2</a></p>
+  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.7.0/NindCraft_0.7.0.exe">NindCraft_0.7.0.exe</a> / 032f25c6589c0a5334a42f8631691ed2</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.3/NindCraft_0.6.3.exe">NindCraft_0.6.3.exe</a> / 441f5e80bc15dc59c629a2cae1348b45</a></p>
+  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.6.3/NindCraft_0.6.3.exe">NindCraft_0.6.3.exe</a> / 441f5e80bc15dc59c629a2cae1348b45</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.2/NindCraft_0.6.2.exe">NindCraft_0.6.2.exe</a> / 5c8b4b6f37e40aaa2f36e9bfa4c78a3f</p>
+  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.6.2/NindCraft_0.6.2.exe">NindCraft_0.6.2.exe</a> / 5c8b4b6f37e40aaa2f36e9bfa4c78a3f</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6.1/NindCraft_0.6.1.exe">NindCraft_0.6.1.exe</a> / a6612659214e0ca147eade0685face9e</p>
+  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.6.1/NindCraft_0.6.1.exe">NindCraft_0.6.1.exe</a> / a6612659214e0ca147eade0685face9e</p>
 
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.6-beta/NindCraft_0.6b.exe">NindCraft_0.6b.exe</a> / 4014259c6259cb6e809dc1f37ef7bf87</p>
+  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.6-beta/NindCraft_0.6b.exe">NindCraft_0.6b.exe</a> / 4014259c6259cb6e809dc1f37ef7bf87</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.5.1-beta/NindCraft_0.5.1b.exe">NindCraft_0.5.1b.exe</a> / d817bdab67cd3cd7daf68ada2d8ba7d2</p>
+  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.5.1-beta/NindCraft_0.5.1b.exe">NindCraft_0.5.1b.exe</a> / d817bdab67cd3cd7daf68ada2d8ba7d2</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.5-beta/NindCraft_0.5b.exe">NindCraft_0.5b.exe</a> / 47cf51b7e970c36bbf7d118d1dc0ca0f</p>
+  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.5-beta/NindCraft_0.5b.exe">NindCraft_0.5b.exe</a> / 47cf51b7e970c36bbf7d118d1dc0ca0f</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.4-beta/NiNdCraft_0.4b.exe">NiNdCraft_0.4b.exe</a> / d0d9ebb490baab0f1086fe6faf2027a7</p>
+  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.4-beta/NiNdCraft_0.4b.exe">NiNdCraft_0.4b.exe</a> / d0d9ebb490baab0f1086fe6faf2027a7</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.3-beta/NiNdCraft_0.3b.exe">NiNdCraft_0.3b.exe</a> / 65d66d6981c4773daad287594b96de91</p>
+  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.3-beta/NiNdCraft_0.3b.exe">NiNdCraft_0.3b.exe</a> / 65d66d6981c4773daad287594b96de91</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.2-beta/NiNdCraft_0.2b.exe">NiNdCraft_0.2b.exe</a> / 93465078190404739751f1f812c3f543</p>
+  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.2-beta/NiNdCraft_0.2b.exe">NiNdCraft_0.2b.exe</a> / 93465078190404739751f1f812c3f543</p>
   
-  <p><a href="https://github.com/NindCraft/NindCraft.github.io/releases/download/v0.1-beta/NiNdCraft_0.1b.exe">NiNdCraft_0.1b.exe</a> / 5f6e7e5f5f9eb8d193893480be27ca31</p>
+  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.1-beta/NiNdCraft_0.1b.exe">NiNdCraft_0.1b.exe</a> / 5f6e7e5f5f9eb8d193893480be27ca31</p>
   
 </details>
 
