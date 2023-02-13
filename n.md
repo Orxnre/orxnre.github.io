@@ -1,4 +1,4 @@
-**[「 主页 · Homepage 」](https://nindcraft.github.io/) [「 更新 · Changelog 」](https://nindcraft.github.io/c) [「 新闻 · News 」](https://nindcraft.github.io/n)**
+**[「 主页 · Homepage 」](https://orxnre.github.io/) [「 更新 · Changelog 」](https://orxnre.github.io/c) [「 新闻 · News 」](https://orxnre.github.io/n)**
 
 ### 新闻 | News
 #### Nindcraft 0.7.0 版本将不再兼容旧版的配置文件
