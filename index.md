@@ -1,64 +1,51 @@
 **[「 主页 · Homepage 」](https://orxnre.github.io/) [「 更新 · Changelog 」](https://orxnre.github.io/c) [「 新闻 · News 」](https://orxnre.github.io/n)**
 
-<img src="https://badges.toozhao.com/badges/01GS58QJQJFWKEXSF496KM0VQN/green.svg" />
+****
 
 Orxnre现已由Nindcraft更改名称。正在尝试使用C#翻新程序，代替Python。
 
 使用「W」「A」「S」「D」键控制角色「您」移动，「E」键探索当前位置的宝藏，「Q」键打开商店，「Esc」键退出游戏，角色可在「草」「土」「石」上移动。
 
-Orxnre是一个编程初学者的屑作，技术力低，不太想开源。如有意见，欢迎批评。感谢所有找到此页面并下载体验的朋友！！
+Orxnre已在Github开源。有意见的话欢迎提出、批评。感谢所有找到此页面并下载体验的朋友！！
+
+[「开源仓库 (Github)」](https://github.com/Xnye/Orxnre) [「网页托管仓库 (Github)」](https://github.com/Orxnre/orxnre.github.io)
+
+****
 
 ### 游戏下载 | Downloads
 
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/orxnre/orxnre.github.io/total?label=%5B%20%E2%86%93%20%5D&style=flat-square"> <img alt="GitHub release (latest SemVer including pre-releases)" src="https://img.shields.io/github/v/release/orxnre/orxnre.github.io?include_prereleases&label=%5BRelease%5D&style=flat-square"> <img alt="GitHub (Pre-)Release Date" src="https://img.shields.io/github/release-date-pre/orxnre/orxnre.github.io?label=%5BLast%20Update%5D&style=flat-square">
+**「最新最热测试版 [Orxnre_1.0b1.exe ](https://github.com/Xnye/Orxnre/releases/download/v1.0-beta.1/Orxnre_1.0b1.exe)」**「SC版本 **[Orxnre_1.0b1_sc.exe](https://github.com/Xnye/Orxnre/releases/download/v1.0-beta.1/Orxnre_1.0b1_sc.exe)**」
 
-<details>
-<summary>所有版本下载 / MD5</summary>
-  
-  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.8.0/NindCraft_0.8.0.exe">NindCraft_0.8.0.exe</a> / 3a3c86022e7cfdeb22a0f6469fba1448</p>
-  
-  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.7.0-fix/NindCraft_0.7.0-fix.exe">NindCraft_0.7.0-fix.exe</a> / edb4d744d548f6159eacdcd6d544a4e0</p>
-  
-  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.7.0/NindCraft_0.7.0.exe">NindCraft_0.7.0.exe</a> / 032f25c6589c0a5334a42f8631691ed2</p>
-  
-  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.6.3/NindCraft_0.6.3.exe">NindCraft_0.6.3.exe</a> / 441f5e80bc15dc59c629a2cae1348b45</p>
-  
-  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.6.2/NindCraft_0.6.2.exe">NindCraft_0.6.2.exe</a> / 5c8b4b6f37e40aaa2f36e9bfa4c78a3f</p>
-  
-  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.6.1/NindCraft_0.6.1.exe">NindCraft_0.6.1.exe</a> / a6612659214e0ca147eade0685face9e</p>
+**请注意：**若运行失败，请尝试 sc 版本或者安装运行环境，详见下一版块。
 
-  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.6-beta/NindCraft_0.6b.exe">NindCraft_0.6b.exe</a> / 4014259c6259cb6e809dc1f37ef7bf87</p>
-  
-  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.5.1-beta/NindCraft_0.5.1b.exe">NindCraft_0.5.1b.exe</a> / d817bdab67cd3cd7daf68ada2d8ba7d2</p>
-  
-  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.5-beta/NindCraft_0.5b.exe">NindCraft_0.5b.exe</a> / 47cf51b7e970c36bbf7d118d1dc0ca0f</p>
-  
-  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.4-beta/NiNdCraft_0.4b.exe">NiNdCraft_0.4b.exe</a> / d0d9ebb490baab0f1086fe6faf2027a7</p>
-  
-  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.3-beta/NiNdCraft_0.3b.exe">NiNdCraft_0.3b.exe</a> / 65d66d6981c4773daad287594b96de91</p>
-  
-  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.2-beta/NiNdCraft_0.2b.exe">NiNdCraft_0.2b.exe</a> / 93465078190404739751f1f812c3f543</p>
-  
-  <p><a href="https://github.com/Orxnre/orxnre.github.io/releases/download/v0.1-beta/NiNdCraft_0.1b.exe">NiNdCraft_0.1b.exe</a> / 5f6e7e5f5f9eb8d193893480be27ca31</p>
-  
-</details>
+[「 所有版本下载 | Downloads 」](https://orxnre.github.io/d) ![GitHub all releases](https://img.shields.io/github/downloads/Orxnre/Orxnre.github.io/total?label=Downloads (v0)&style=flat-square)![GitHub all releases](https://img.shields.io/github/downloads/Xnye/Orxnre/total?label=Downloads (v1)&style=flat-square)
 
 ### 运行环境 | Environment
 
-「操作系统」建议Windows 7及以上
+###### ① 对于v1.0b1及更新的版本
 
-「运行内存」至少30MB
+**需要.NET 7.0 运行环境。**
+
+[「下载 .NET 7.0 Runtime (v7.0.5) - Windows x64 Installer」](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-7.0.5-windows-x64-installer)
+
+[「下载 .NET 7.0 其他版本」](https://dotnet.microsoft.com/zh-cn/download/dotnet/7.0)
+
+**SelfContained (SC) 版本无需安装 .NET 7.0 环境**，因为环境已经被内置于程序中。相应地，sc版本的程序体积将会变得较大。 
+
+###### ② 对于旧版本
+
+**仅支持 Windows 8 及以上的操作系统。**
 
 ### 疑难杂症 | Q&A
 
-**Q1:** 「启动」在itch客户端内启动游戏失败。
+###### 目前只适用于旧版本
 
-**A1:** 在当前版本中, 直接使用itch客户端启动游戏可能会发生错误或失败. 如要启动游戏, 请在资源管理器中找到游戏文件再运行。
+**Q1:** 「启动」无法启动此程序，因为计算机中丢失 api-ms-win-core-path-l1-1-0.dll。
 
-**Q2:** 「启动」无法启动此程序，因为计算机中丢失 api-ms-win-core-path-l1-1-0.dll。
+**A1:** 尝试安装VC++库或者复制该dll文件到系统目录下, 具体方法可搜寻互联网。也有可能是你正在使用Windows7及以下的操作系统。
 
-**A2:** 尝试安装VC++库或者复制该dll文件到系统目录下, 具体方法可搜寻互联网。
+**Q2:** 「调试」配置文件中的「默认清屏方式」修改前后有何差异？
 
-**Q3:** 「调试」配置文件中的「默认清屏方式」修改前后有何差异？
+**A2:** 效果差不多, 破烂机器请保持该项为「0」。
 
-**A3:** 效果差不多, 破烂机器请保持该项为「0」。
+<img src="https://badges.toozhao.com/badges/01GS58QJQJFWKEXSF496KM0VQN/green.svg" />
