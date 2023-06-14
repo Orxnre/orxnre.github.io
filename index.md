@@ -18,7 +18,7 @@ Orxnre已在Github开源。有意见的话欢迎提出、批评。感谢所有�
 
 **请注意：**若运行失败，请尝试 sc 版本或者安装运行环境，详见下一版块。
 
-[「 所有版本下载 | Downloads 」](https://orxnre.github.io/d) ![GitHub all releases](https://img.shields.io/github/downloads/Orxnre/Orxnre.github.io/total?label=Downloads (v0)&style=flat-square)![GitHub all releases](https://img.shields.io/github/downloads/Xnye/Orxnre/total?label=Downloads (v1)&style=flat-square)
+[「 所有版本下载 | Downloads 」](https://orxnre.github.io/d) <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Orxnre/Orxnre.github.io/total?label=Downloads (v0)&style=flat-square"> <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xnye/Orxnre/total?label=Downloads (v1)&style=flat-square">
 
 ### 运行环境 | Environment
 
