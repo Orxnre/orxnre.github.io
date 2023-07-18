@@ -26,7 +26,7 @@ Orxnre已在Github开源。有意见的话欢迎提出、批评。感谢所有�
 
 **需要.NET 7.0 运行环境。**
 
-[「下载 .NET 7.0 Runtime (v7.0.5) - Windows x64 Installer」](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-7.0.5-windows-x64-installer)
+[「下载 .NET 7.0 Runtime (v7.0.9) - Windows x64 Installer」](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-7.0.9-windows-x64-installer)
 
 [「下载 .NET 7.0 其他版本」](https://dotnet.microsoft.com/zh-cn/download/dotnet/7.0)
 
