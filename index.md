@@ -8,6 +8,8 @@ Orxnre现已由Nindcraft更改名称。正在尝试使用C#翻新程序，代替
 
 Orxnre已在Github开源。有意见的话欢迎提出、批评。感谢所有找到此页面并下载体验的朋友！！
 
+![](https://img.itch.zone/aW1nLzEyNjA1NTc4LnBuZw==/original/Q%2Fq%2FU8.png "1.0β1")
+
 [「开源仓库 (Github)」](https://github.com/Xnye/Orxnre) [「网页托管仓库 (Github)」](https://github.com/Orxnre/orxnre.github.io)
 
 ****
