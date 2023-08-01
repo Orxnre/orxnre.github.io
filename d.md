@@ -2,6 +2,8 @@
 
 ### 所有版本下载 | Downloads
 
+[**Orxnre_1.0b2.exe**](https://github.com/Xnye/Orxnre/releases/download/v1.0-beta.2/Orxnre_1.0b2.exe) / [**Orxnre_1.0b2_sc.exe**](https://github.com/Xnye/Orxnre/releases/download/v1.0-beta.2/Orxnre_1.0b2_sc.exe) - 2023.08.01
+
 [**Orxnre_1.0b1.exe**](https://github.com/Xnye/Orxnre/releases/download/v1.0-beta.1/Orxnre_1.0b1.exe) / [**Orxnre_1.0b1_sc.exe**](https://github.com/Xnye/Orxnre/releases/download/v1.0-beta.1/Orxnre_1.0b1_sc.exe) - 2023.06.14
 
 ****
