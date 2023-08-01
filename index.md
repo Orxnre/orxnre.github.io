@@ -8,7 +8,7 @@ Orxnre现已由Nindcraft更改名称。正在尝试使用C#翻新程序，代替
 
 Orxnre已在Github开源。有意见的话欢迎提出、批评。感谢所有找到此页面并下载体验的朋友！！
 
-![](https://img.itch.zone/aW1nLzEyNjA1NTc4LnBuZw==/original/Q%2Fq%2FU8.png "1.0β1")
+![](https://img.itch.zone/aW1nLzEyOTk2NDc2LnBuZw==/original/414qlJ.png "1.0β2")
 
 [「开源仓库 (Github)」](https://github.com/Xnye/Orxnre) [「网页托管仓库 (Github)」](https://github.com/Orxnre/orxnre.github.io)
 
@@ -16,7 +16,7 @@ Orxnre已在Github开源。有意见的话欢迎提出、批评。感谢所有�
 
 ### 游戏下载 | Downloads
 
-**「最新最热测试版 [Orxnre_1.0b1.exe ](https://github.com/Xnye/Orxnre/releases/download/v1.0-beta.1/Orxnre_1.0b1.exe)」**「SC版本 **[Orxnre_1.0b1_sc.exe](https://github.com/Xnye/Orxnre/releases/download/v1.0-beta.1/Orxnre_1.0b1_sc.exe)**」
+**「最新最热测试版 [Orxnre_1.0b2.exe ](https://github.com/Xnye/Orxnre/releases/download/v1.0-beta.2/Orxnre_1.0b2.exe)」**「SC版本 **[Orxnre_1.0b2_sc.exe](https://github.com/Xnye/Orxnre/releases/download/v1.0-beta.2/Orxnre_1.0b2_sc.exe)**」
 
 **请注意：**若运行失败，请尝试 sc 版本或者安装运行环境，详见下一版块。
 
