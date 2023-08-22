@@ -8,7 +8,7 @@ Orxnre现已由Nindcraft更改名称。正在尝试使用C#翻新程序，代替
 
 Orxnre已在Github开源。有意见的话欢迎提出、批评。感谢所有找到此页面并下载体验的朋友！！
 
-**「观看由 @雾削木FHZ 举办的第五届程序比赛 Orxnre相关视频 [AV914527251](https://b23.tv/av914527251 "") (bilibili)」** 
+**「观看由 @雾削木FHZ 举办的第五届程序比赛 Orxnre相关视频 [AV914527251](https://b23.tv/av914527251 "") on Bilibili」** 
 
 ![](https://img.itch.zone/aW1nLzEyOTk2NDc2LnBuZw==/original/414qlJ.png "1.0β2")
 
