@@ -8,6 +8,13 @@ Orxnre现已由Nindcraft更改名称。正在尝试使用Rust翻新程序，代�
 
 Orxnre已在Github开源。有意见的话欢迎提出、批评。感谢所有找到此页面并下载体验的朋友！！
 
+![](https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-%E9%93%81%E9%94%88　~%20Rust%20Programming%20Language-ffc832)
+![](https://img.shields.io/badge/%E8%BF%9B%E5%BA%A6-%E5%B7%B2%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9　~%20mkdir%20c:/windows/system32-70ff5c)
+![](https://img.shields.io/badge/%E5%8D%8F%E8%AE%AE-%E5%80%92%E8%BF%87%E6%9D%A5%E7%9A%84%E5%8D%8F%E8%AE%AE　~%20The%20Unlicense-2fbaff)
+![](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC-%E8%87%AA%E5%B7%B1%E5%8E%BBReleases%E9%87%8C%E7%9C%8B　~%20Check%20it%20yourself-8955ef)
+![](https://img.shields.io/badge/%E4%B8%8B%E6%AC%A1%E6%9B%B4%E6%96%B0-%E6%88%91%E4%B9%9F%E4%B8%8D%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99　~%20Till%20When%3F-f379ef)
+![](https://img.shields.io/badge/%E6%9C%80%E9%95%BF%E6%9B%B4%E6%96%B0%E9%97%B4%E9%9A%94%E5%A4%A9%E6%95%B0-296-black)
+
 **「观看由 @雾削木FHZ 举办的第五届程序比赛 Orxnre相关视频 [AV914527251](https://b23.tv/av914527251) on Bilibili」** 
 
 ![](https://img.itch.zone/aW1nLzEyOTk2NDc2LnBuZw==/original/414qlJ.png "1.0β2")
@@ -22,7 +29,7 @@ Orxnre已在Github开源。有意见的话欢迎提出、批评。感谢所有�
 
 **请注意：**若运行失败，请尝试 sc 版本或者安装运行环境，详见下一版块。
 
-[「 所有版本下载 · Downloads 」](https://orxnre.github.io/d) <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Orxnre/Orxnre.github.io/total?label=Downloads (v0)&style=flat-square"> <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xnye/Orxnre/total?label=Downloads (v1)&style=flat-square">
+[「 所有版本下载 · Downloads 」](https://orxnre.github.io/d)
 
 ### 运行环境 | Environment
 
@@ -54,4 +61,4 @@ Orxnre已在Github开源。有意见的话欢迎提出、批评。感谢所有�
 
 **A2:** 效果差不多, 破烂机器请保持该项为「0」。
 
-<img src="https://badges.toozhao.com/badges/01GS58QJQJFWKEXSF496KM0VQN/green.svg" />
+![](https://badges.toozhao.com/badges/01GS58QJQJFWKEXSF496KM0VQN/green.svg) / ![](https://img.shields.io/github/downloads/Xnye/Orxnre/total?label=Downloads&style=flat-square)
