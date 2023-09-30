@@ -27,31 +27,22 @@ Orxnre已在Github开源。有意见的话欢迎提出、批评。感谢所有�
 
 **「最新最热测试版 [Orxnre_1.0b2.exe ](https://github.com/Xnye/Orxnre/releases/download/v1.0-beta.2/Orxnre_1.0b2.exe)」**「SC版本 **[Orxnre_1.0b2_sc.exe](https://github.com/Xnye/Orxnre/releases/download/v1.0-beta.2/Orxnre_1.0b2_sc.exe)**」
 
-**请注意：**若运行失败，请尝试 sc 版本或者安装运行环境，详见下一版块。
-
 [「 所有版本下载 · Downloads 」](https://orxnre.github.io/d)
 
 ### 运行环境 | Environment
 
-###### ① 对于v1.0b1和v1.0b2
+对于v1.0b3或更新的版本：暂无。如遇如dll缺失等问题请自行百度。
 
-**需要.NET 7.0 运行环境。**
+对于v1.0b1和v1.0b2：**需要.NET 7.0 运行环境。** 另外，SelfContained (SC) 版本无需安装 .NET 7.0 环境，因为环境已经被内置于程序中。相应地，sc版本的程序体积将会变得较大。 尽管 Windows 7 等较旧的平台能正常运行，ASCII用户界面可能无法完美显示，如制表符。
+
+对于更旧的版本(v0)：**仅支持 Windows 8 及以上的操作系统。**
 
 [「下载 .NET 7.0 Runtime (v7.0.9) - Windows x64 Installer」](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-7.0.9-windows-x64-installer)
-
 [「下载 .NET 7.0 其他版本」](https://dotnet.microsoft.com/zh-cn/download/dotnet/7.0)
-
-**SelfContained (SC) 版本无需安装 .NET 7.0 环境**，因为环境已经被内置于程序中。相应地，sc版本的程序体积将会变得较大。 
-
-**尽管 Windows 7 等较旧的平台能正常运行，ASCII用户界面可能无法完美显示，如制表符。**
-
-###### ② 对于更旧的版本(v0)
-
-**仅支持 Windows 8 及以上的操作系统。**
 
 ### 疑难杂症 | Q&A
 
-###### 目前只适用于更旧的版本(v0)
+以下问题**目前只适用于更旧的版本(v0)**。
 
 **Q1:** 「启动」无法启动此程序，因为计算机中丢失 api-ms-win-core-path-l1-1-0.dll。
 
