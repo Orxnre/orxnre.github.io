@@ -52,4 +52,4 @@ Orxnre已在Github开源。有意见的话欢迎提出、批评。感谢所有�
 
 **A2:** 效果差不多, 破烂机器请保持该项为「0」。
 
-![](https://badges.toozhao.com/badges/01GS58QJQJFWKEXSF496KM0VQN/green.svg) / ![](https://img.shields.io/github/downloads/Xnye/Orxnre/total?label=Downloads&style=flat-square)
+![](https://badges.toozhao.com/badges/01GS58QJQJFWKEXSF496KM0VQN/green.svg) / ![](https://img.shields.io/github/downloads/Xnye/Orxnre/total?label=Downloads&style=flat-square) / [Bilibili](https://space.bilibili.com/357881808)
