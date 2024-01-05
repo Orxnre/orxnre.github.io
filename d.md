@@ -2,6 +2,16 @@
 
 ### 所有版本下载 | Downloads
 
+###### 以下是最新最热版本下载区域
+
+[***dnu∅͟͝͞f+on***](http://127.0.0.1)  - 2024.█▆.▄▇
+
+****
+
+###### 以下是测试版本下载区域
+
+提示：需要.NET 7.0 运行环境。SelfContained (SC) 版本无需安装 .NET 7.0 环境，因为环境已经被内置于程序中，因此sc版本的程序体积将会较大。 尽管 Windows 7 等较旧的平台能正常运行，ASCII用户界面可能无法完美显示，如制表符。
+
 [**Orxnre_1.0b2.exe**](https://github.com/Xnye/Orxnre/releases/download/v1.0-beta.2/Orxnre_1.0b2.exe) / [**Orxnre_1.0b2_sc.exe**](https://github.com/Xnye/Orxnre/releases/download/v1.0-beta.2/Orxnre_1.0b2_sc.exe) - 2023.08.01
 
 [**Orxnre_1.0b1.exe**](https://github.com/Xnye/Orxnre/releases/download/v1.0-beta.1/Orxnre_1.0b1.exe) / [**Orxnre_1.0b1_sc.exe**](https://github.com/Xnye/Orxnre/releases/download/v1.0-beta.1/Orxnre_1.0b1_sc.exe) - 2023.06.14
@@ -9,6 +19,8 @@
 ****
 
 ###### 以下是旧版本下载区域
+
+提示：仅支持 Windows 8 及以上的操作系统。
 
 [**NindCraft 0.8.0.exe**](https://github.com/Orxnre/orxnre.github.io/releases/download/v0.8.0/NindCraft_0.8.0.exe) - 2022.08.22
 
